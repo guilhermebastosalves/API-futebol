@@ -30,4 +30,4 @@ cd API-futebol
 ```
 ---
 ## Autor
-### Guilherme Bastos Alves | Gustavo Solivam | Nicolas Folquenin ###
+### Guilherme Bastos Alves
